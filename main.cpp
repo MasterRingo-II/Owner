@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-  std::cout << "Owner: Maxim Fedosejev\n";
-  
-   std::cout << "Owner: berwy\n";
+  cout << "Owner: Maxim Fedosejev\n";
+   cout << " berwy\n";
+  cout << "Anna Butujeva";
 }
